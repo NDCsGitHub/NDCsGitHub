@@ -1,8 +1,8 @@
 ### Hello 👋 I'm Andy Chen
 
-<!--
-**jjwlee94/jjwlee94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
+**NDC/NDC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=NDC.jjwlee94&color=blue&style=for-the-badge&logo=Github)
 
@@ -63,8 +63,8 @@
 
 ## 📫 How to reach me
                                                                                                                    
-<!-- 
-<a href="https://www.linkedin.com/in/jeewon-lee-dev"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-<a href="mailto:jeewon.jlee@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a> -->
+
+<!-- <a href="...."><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a> -->
+<a href="mailto:andy_chen123@hotmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 
 
