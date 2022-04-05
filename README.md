@@ -40,7 +40,7 @@
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL%20-%23025E8C.svg?logo=postgresql&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git%20-black.svg?logo=git&logoColor=white">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-%2320232a.svg?logo=github&logoColor=white">
-  <img alt='Google Cloud Platform' src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <img alt='Google Cloud Platform' src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
 
 </p>
 
