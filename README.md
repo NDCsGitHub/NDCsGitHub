@@ -43,6 +43,7 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-%2320232a.svg?logo=github&logoColor=white">
   <img alt='Google Cloud Platform' src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
   <img alt='MySQL' src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white">
+  Firebase 	![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 </p>
 
 ## ⌨️ I'm currently working on
