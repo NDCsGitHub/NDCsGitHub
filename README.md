@@ -57,9 +57,11 @@
 ## 🌱 I’m currently learning
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python%20-cornflowerblue.svg?logo=python&logoColor=white">
+<!--   <img alt="Python" src="https://img.shields.io/badge/Python%20-cornflowerblue.svg?logo=python&logoColor=white"> -->
 <!--   <img alt="Docker" src="https://img.shields.io/badge/Docker%20-dodgerblue.svg?logo=docker&logoColor=white">
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes%20-white.svg?logo=kubernetes&logoColor="white"> -->
+  
+<img alt='Leetcode' src"https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)">
 </p>
 
 ## 📫 How to reach me
