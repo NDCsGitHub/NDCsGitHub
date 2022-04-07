@@ -61,7 +61,7 @@
 <!--   <img alt="Docker" src="https://img.shields.io/badge/Docker%20-dodgerblue.svg?logo=docker&logoColor=white">
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes%20-white.svg?logo=kubernetes&logoColor="white"> -->
   
-<img alt='Leetcode' src"https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)">
+<img alt='Leetcode' src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
 </p>
 
 ## 📫 How to reach me
