@@ -70,6 +70,3 @@
 
 <!-- <a href="...."><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a> -->
 <a href="mailto:andy_chen123@hotmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-
-
- -->
