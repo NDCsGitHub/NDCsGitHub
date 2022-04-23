@@ -7,8 +7,9 @@
 
 - 🇨🇦 Living in Canada
 - 🎓 Graduated from University of Waterloo, Honours Bachelor of Science.
-<!-- - 💻  -->
 - 👩🏻‍💻 Currently Working at AI Financial as Software Developer in Toronto.
+
+<!-- - 💻  -->
 
 ## 📚 My stack
 
