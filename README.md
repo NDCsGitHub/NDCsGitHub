@@ -1,12 +1,13 @@
-### Hello 👋 I'm Andy Chen
-
+### Hello
+<!-- 👋 I'm Andy Chen -->
+<!-- 
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=NDC.jjwlee94&color=blue&style=for-the-badge&logo=Github)
 
 ## 🌟 About me
 
 - 🇨🇦 Living in Canada
-- 🎓 Graduated from University of Waterloo, Honours Bachelor of Science in Biology.
+- 🎓 Graduated from University of Waterloo, Honours Bachelor of Science.
 <!-- - 💻  -->
 - 👩🏻‍💻 Currently Working at AI Financial as Software Developer in Toronto.
 
@@ -71,3 +72,4 @@
 <a href="mailto:andy_chen123@hotmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 
 
+ -->
