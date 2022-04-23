@@ -1,6 +1,5 @@
 ### Hello
-<!-- 👋 I'm Andy Chen -->
-<!-- 
+
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=NDC.jjwlee94&color=blue&style=for-the-badge&logo=Github)
 
