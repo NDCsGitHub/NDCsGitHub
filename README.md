@@ -33,7 +33,7 @@
 
 <p>
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-green.svg?logo=mongodb&logoColor=white">
-  <img alt="MongoDB Realm" src="https://img.shields.io/badge/MongoDB_Realm%20-green.svg?logo=Realm&logoColor=FFFFFF&label=">
+  <img alt="MongoDB Realm" src="https://img.shields.io/badge/MongoDB_Realm%20-39477F.svg?logo=Realm&logoColor=FFFFFF&label=">
   
   
 <!--   https://img.shields.io/static/v1?style=for-the-badge&message=Realm&color=39477F&logo=Realm&logoColor=FFFFFF&label= -->
