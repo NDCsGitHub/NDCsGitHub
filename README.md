@@ -50,7 +50,7 @@
 
 <p>
 <img alt='Leetcode' src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
-<img alt='AngularJS' src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=Angular&logoColor=#d16c06">
+<img alt='AngularJS' src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=Angular&logoColor=red">
 </p>
 
 ## 📫 How to reach me
