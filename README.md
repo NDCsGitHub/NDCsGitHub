@@ -36,7 +36,7 @@
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google_Cloud%20-blue.svg?logo=google-cloud&logoColor=white">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%2300f.svg?logo=mysql&logoColor=white">
   <img alt='Firebase' src='https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase'>
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase%20-%23039BE5.svg?logo=firebase&logoColor=white">
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase%20-%23039BE5.svg?logo=firebase&logoColor=orange">
   <img alt="Git" src="https://img.shields.io/badge/Git%20-green.svg?logo=Git&logoColor=white">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-%2320232a.svg?logo=github&logoColor=white">
 </p>
@@ -50,10 +50,6 @@
 ## 🌱 I’m currently learning
 
 <p>
-<!--   <img alt="Python" src="https://img.shields.io/badge/Python%20-cornflowerblue.svg?logo=python&logoColor=white"> -->
-<!--   <img alt="Docker" src="https://img.shields.io/badge/Docker%20-dodgerblue.svg?logo=docker&logoColor=white">
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes%20-white.svg?logo=kubernetes&logoColor="white"> -->
-  
 <img alt='Leetcode' src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
 </p>
 
