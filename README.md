@@ -27,6 +27,8 @@
   <img alt="Express" src="https://img.shields.io/badge/Express%20-grey.svg?logo=express&logoColor=white">
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-purple.svg?logo=bootstrap&logoColor=white">
   <img alt="MaterialUI" src="https://img.shields.io/badge/Material UI%20-blue.svg?logo=mui&logoColor=white">
+  <img alt="Redux" src="https://img.shields.io/badge/Redux%20-764ABC.svg?logo=Redux&logoColor=FFFFFF&label=">
+  https://img.shields.io/static/v1?style=for-the-badge&message=Redux&color=764ABC&logo=Redux&logoColor=FFFFFF&label=
 </p>
 
 ### Systems, CMS, and Databases
