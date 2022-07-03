@@ -42,8 +42,7 @@
 <!--   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL%20-%23025E8C.svg?logo=postgresql&logoColor=white"> -->
 <!--   <img alt="Git" src="https://img.shields.io/badge/Git%20-black.svg?logo=git&logoColor=white"> -->
 <!--   <img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-%2320232a.svg?logo=github&logoColor=white"> -->
-   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git%20-black.svg?logo=Git&logoColor=white">
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img alt='Google Cloud Platform' src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
   <img alt='MySQL' src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white">
