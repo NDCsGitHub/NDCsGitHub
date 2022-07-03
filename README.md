@@ -26,12 +26,7 @@
   <img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white">
   <img alt="Express" src="https://img.shields.io/badge/Express%20-grey.svg?logo=express&logoColor=white">
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-purple.svg?logo=bootstrap&logoColor=white">
-<!--   <img alt="SASS" src="https://img.shields.io/badge/SASS%20-orchid.svg?logo=sass&logoColor=white"> -->
   <img alt="MaterialUI" src="https://img.shields.io/badge/Material UI%20-blue.svg?logo=mui&logoColor=white">
-<!--   <img alt="Mocha" src="https://img.shields.io/badge/Mocha%20-saddlebrown.svg?logo=mocha&logoColor=white">
-  <img alt="Chai" src="https://img.shields.io/badge/Chai%20-bisque.svg?logo=chai&logoColor=maroon">
-  <img alt="Jest" src="https://img.shields.io/badge/Jest%20-red.svg?logo=jest&logoColor=white">
-  <img alt="Cypress" src="https://img.shields.io/badge/Cypress%20-grey.svg?logo=cypress&logoColor=white"> -->
 </p>
 
 ### Systems, CMS, and Databases
@@ -39,6 +34,7 @@
 <p>
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-green.svg?logo=mongodb&logoColor=white">
   <img alt='Google Cloud Platform' src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google_Cloud%20-blue.svg?logo=google-cloud&logoColor=white">
   <img alt='MySQL' src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white">
   <img alt='Firebase' src='https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase'>
   <img alt="Git" src="https://img.shields.io/badge/Git%20-green.svg?logo=Git&logoColor=white">
