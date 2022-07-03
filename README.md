@@ -37,7 +37,8 @@
 ### Systems, CMS, and Databases
 
 <p>
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-green.svg?logo=mongodb&logoColor=white">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-green.svg?logo=mongodb&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git%20-green.svg?logo=Git&logoColor=white">
 <!--   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL%20-%23025E8C.svg?logo=postgresql&logoColor=white"> -->
 <!--   <img alt="Git" src="https://img.shields.io/badge/Git%20-black.svg?logo=git&logoColor=white"> -->
 <!--   <img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-%2320232a.svg?logo=github&logoColor=white"> -->
