@@ -36,7 +36,7 @@
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google_Cloud%20-blue.svg?logo=google-cloud&logoColor=white">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%2300f.svg?logo=mysql&logoColor=white">
   <img alt='Firebase' src='https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase'>
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase%20-%23039BE5.svg?logo=firebase&logoColor=orange">
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase%20-%23039BE5.svg?style=for-the-badge&logo=firebase">
   <img alt="Git" src="https://img.shields.io/badge/Git%20-green.svg?logo=Git&logoColor=white">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-%2320232a.svg?logo=github&logoColor=white">
 </p>
